@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/ayush1852017?logo=github&style=for-
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ayush1852017"><img src="https://github-readme-stats.vercel.app/api?username=ayush1852017&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayush1852017's GitHub stats" /></a>
 
@@ -46,6 +46,12 @@ src="https://img.shields.io/github/followers/ayush1852017?logo=github&style=for-
 
 <a href="https://github.com/ayush1852017" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1852017&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### <📫> How to reach me </📫>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+### <📊>Top Repositories</📊>
 
 <div width="100%" align="center"><a href="https://github.com/ayush1852017/https://github.com/NishutSuman/Pepperfry_Clone.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayush1852017&repo=https://github.com/NishutSuman/Pepperfry_Clone.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ayush1852017/https://github.com/PRAKASH-1971/1mg-team.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayush1852017&repo=https://github.com/PRAKASH-1971/1mg-team.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
