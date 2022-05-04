@@ -46,10 +46,9 @@ src="https://img.shields.io/github/followers/ayush1852017?logo=github&style=for-
 
 <a href="https://github.com/ayush1852017" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1852017&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My working tools..._**
-
-<p align="left">
 ### <📫> How to reach me </📫>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
