@@ -4,6 +4,7 @@
 
 - 🌍  I'm based in India
 - ✉️  You can contact me at [mr.ayushbajpai185@gmail.com](mailto:mr.ayushbajpai185@gmail.com)
+- 🚀  Have a look on my [Portfolio](https://ayushbajpai.in)
 - 🚀  I'm currently working on [Ekmyth](http://ekmyth.com)
 - 🧠  I'm learning MERN Stack and DSA
 - 🤝  I'm open to collaborating on Web Applications
